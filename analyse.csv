@@ -1,0 +1,12 @@
+dutation,point_1,point_2
+channel_300_us,0.00103,-0.00106
+channel_500_us,0.00099,-0.00107
+channel_700_us,0.00103,-0.00109
+channel_900_us,0.00101,-0.00101
+channel_1_ms,0.00098,-0.00107
+channel_2_ms,0.00093,-0.00102
+channel_4_ms,0.00092,-0.00102
+channel_8_ms,0.00093,-0.00102
+channel_10_ms,0.00088,-0.00102
+channel_20_ms,0.0009,-0.00098
+channel_50_ms,0.00088,-0.00102
